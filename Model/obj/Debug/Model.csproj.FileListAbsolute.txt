@@ -1,0 +1,5 @@
+D:\Git\Model\bin\Debug\Model.dll
+D:\Git\Model\bin\Debug\Model.pdb
+D:\Git\Model\obj\Debug\Model.dll
+D:\Git\Model\obj\Debug\Model.pdb
+D:\Git\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

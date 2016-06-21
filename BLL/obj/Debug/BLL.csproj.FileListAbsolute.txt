@@ -1,0 +1,12 @@
+D:\Git\BLL\bin\Debug\BLL.dll
+D:\Git\BLL\bin\Debug\BLL.pdb
+D:\Git\BLL\bin\Debug\DAL.dll
+D:\Git\BLL\bin\Debug\Model.dll
+D:\Git\BLL\bin\Debug\Dapper.dll
+D:\Git\BLL\bin\Debug\DAL.pdb
+D:\Git\BLL\bin\Debug\Model.pdb
+D:\Git\BLL\bin\Debug\Dapper.pdb
+D:\Git\BLL\bin\Debug\Dapper.xml
+D:\Git\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Git\BLL\obj\Debug\BLL.dll
+D:\Git\BLL\obj\Debug\BLL.pdb

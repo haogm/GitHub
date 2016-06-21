@@ -1,0 +1,10 @@
+D:\Git\DAL\bin\Debug\DAL.dll
+D:\Git\DAL\bin\Debug\DAL.pdb
+D:\Git\DAL\bin\Debug\Dapper.dll
+D:\Git\DAL\bin\Debug\Model.dll
+D:\Git\DAL\bin\Debug\Model.pdb
+D:\Git\DAL\bin\Debug\Dapper.pdb
+D:\Git\DAL\bin\Debug\Dapper.xml
+D:\Git\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Git\DAL\obj\Debug\DAL.dll
+D:\Git\DAL\obj\Debug\DAL.pdb
